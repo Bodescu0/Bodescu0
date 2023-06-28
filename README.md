@@ -1,5 +1,6 @@
 *** Hi there 👋 ***
 
+<hr class="yellow-line">
 <hr style="border: none; height: 1px; background-color: yellow;">
 
 My coding journey.
