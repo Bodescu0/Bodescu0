@@ -1,6 +1,6 @@
 *** Hi there 👋 ***
 
-<hr style="border: none; height: 1px; background-color: white;">
+<hr style="border: none; height: 1px; background-color: yellow;">
 
 My coding journey.
 
